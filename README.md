@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Osman Goni
 #### I am a web Developer
-![I am a web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 
 Skills: c#/.net core/sql / REACT / JS / HTML / CSS
