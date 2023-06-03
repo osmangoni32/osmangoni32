@@ -1,4 +1,4 @@
-https://www.facebook.com/photo?fbid=3721314141327274&set=a.119649021493822
+
 ### Hi there 👋, my name is Osman Goni
 #### I am a web Developer
 
