@@ -1,9 +1,4 @@
-### Hi there 👋
 
-
-**osmangoni32/osmangoni32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 ### Hi there 👋, my name is Osman Goni
 #### I am a web Developer
