@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Osman Goni</h1>
-<h3 align="center">A passionate backend developer from Bangladesh</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **.net core**
+- 🔭 I’m currently working on **mearn stack**
 
-- 🌱 I’m currently learning **c#, .net core**
+- 🌱 I’m currently learning **javascript reactjs nodejs**
 
 - 📫 How to reach me **osman.ice.32@gmail.com**
 
